@@ -1,2 +1,3 @@
-# drum-machine
-a drum machine build with React in Glitch.com
+# Drum Machine
+
+This project is built as a part of Freecodecamp's Front End Development Libraries -certification.
